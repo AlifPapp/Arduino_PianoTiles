@@ -19,20 +19,29 @@
     </a> 
   </p>
 </div>
-## TinkerCad
-https://www.tinkercad.com/things/a9mOXm0eM2W
 
+<h2 align="center">TINKERCAD</h2>
 
-How To Play:
+**Share Link:** https://www.tinkercad.com/things/a9mOXm0eM2W
+
+<div>
+  <p align="center">
+    <a href="https://www.tinkercad.com/things/a9mOXm0eM2W">
+    <img src="https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/4.png" height="400" align="center" alt="AutoSend.png"></a>
+</div>
+
+## Instructions
+
+### How To Play:
 1. Hit the start button.
 2. As the notes fall, press the corresponding note in the correct order.
 You can only hit the notes below the barrier, which is distinguished by a white line.
 
-Game Over:
+### Game Over:
 1. If you fail to hit the note before it touches the bottom of the LCD, you lose.
 2. When you lose you get a score which is the amount of time you have lasted.
 
-Difficulty:
+### Difficulty:
 1. Change the speed of the song. Makes it easier/harder to hit the falling notes.
 2. Change the height of the barrier. Allows you to hit the notes sooner/later when they appear.
 3. Toggle game over. Prevents you from losing when the note touches the bottom of the LCD.
