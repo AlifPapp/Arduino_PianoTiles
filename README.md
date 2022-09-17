@@ -1,10 +1,27 @@
-# Arduino_PianoTiles
-
+<div>
+  <p align="center">
+    <a href="https://zseni051.github.io/Arduino_PianoTiles/">
+    <img src="https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/1.png" height="500" align="center" alt="AutoSend.png"></a>
+    <a href="https://zseni051.github.io/Arduino_PianoTiles/">
+    <img src="https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/2.png" height="500" align="center" alt="AutoSend.png"></a>
+    <a href="https://zseni051.github.io/Arduino_PianoTiles/">
+    <img src="https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/3.png" height="500" align="center" alt="AutoSend.png"></a>
+  </p>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
+    </a>
+    <a href="https://dsc.gg/zseni">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a> 
+    <a href="https://twitter.com/zseni10">
+      <img src="https://img.shields.io/badge/Twitter-55ADEE?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    </a> 
+  </p>
+</div>
+## TinkerCad
 https://www.tinkercad.com/things/a9mOXm0eM2W
 
-https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/1.png
-https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/2.png
-https://raw.githubusercontent.com/Zseni051/Arduino_PianoTiles/main/images/3.png
 
 How To Play:
 1. Hit the start button.
